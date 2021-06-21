@@ -1,0 +1,216 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700;900&display=swap');
+
+*{
+	margin: 0;
+	padding:0;
+	box-sizing: border-box; 
+}
+
+
+body{
+	background-image:url(fondo2.jpg);
+	background-color:#bdc3c7;
+	font-font-family:'Source Sans Pro', sans-serif;
+}
+
+
+main{
+	width: 100%;
+	height: 700px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#fondoa{
+ background-image: url(../img/fondoa.jpg);
+ background-color:#bdc3c7;
+ background-size: cover;
+}
+
+#fondob{
+	background-image: url(../img/fondob.jpg);
+	background-size: cover;
+}
+
+
+
+header{
+
+	width:100%;
+	height:80px;
+	background-color:#EA2027;
+	padding-left: 5%;
+	padding-top: 0.80%;
+}
+
+
+nav{
+	width: 100%;
+	height:70px;
+	background-color:#1e272e;
+}
+
+section{
+	width:100%;
+	height: 500px;
+}
+
+#seccionformulario{
+	width:100%;
+	height: 750px;
+	background-image: url(../img/whitebearamarillo.jpg);
+	background-size: cover;
+}
+
+#seccionindex{
+	width:100%;
+	height: 500px;
+	max-height: 670px;
+	background-image: url(../img/fondoa.jpg);
+	background-size: cover;
+}
+
+#secciongaleria{
+	width:100%;
+	height:700px;
+	padding-top: 2%;
+	padding-right: 5%;
+	background-color:#dfe6e9;
+}
+
+#seccionpersonajes{
+	width:100%;
+	height:1500px;
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-top: 2%;
+	background-color: #dfe6e9;
+}
+
+.imagenpersonajes{
+	margin-left:29%;
+}
+
+footer{
+	width: 100%;
+	height:70px;
+	background-color:#9c88ff;
+	}
+
+#galeria{
+	padding:2%;
+	margin-left:4%;
+}
+
+#boxformulario{
+	width:50%
+	height:400px;
+	margin-top: 40px;
+	margin-left:70px;
+	background-color:#e74c3c;
+	float:left;
+	padding:2%;
+	font-family:'Source Sans Pro', sans-serif;
+}
+
+.btn{
+    width:50%;
+	height:35px;
+	color:#EA2027;
+	background-color:#ffdd59;
+	margin-left: 26%;
+	border-radius: 5px;
+}
+
+.cajota{
+ width: 100%;
+ height: 40px;
+}
+
+#menu li{
+	display: inline;
+}
+
+#menu{
+	margin-left: 34%;
+	padding-top: 1%;
+}
+
+#menu li a{
+  text-decoration:none;
+  width: 15%;
+  font-size:20px;
+  float:left;
+  text-align: center;
+  padding:1%;
+  margin-right:2%;
+  color: #f5f6fa;
+  background-color:#1e272e;
+  border-radius: 5px;
+}
+
+
+
+#boxa{
+	width: 33%;
+	height: 70px;
+	background-color:#1e272e;
+	float:right;
+	padding-left: 15%;
+	padding-top: 1.6%;
+}
+
+#boxb{
+    width: 33%;
+	height: 70px;
+	background-color:#1e272e;
+    float:left;
+    padding-left: 6%;
+    padding-top: 1.6%;
+}
+
+#boxc{
+    width: 34%;
+	height: 70px;
+	background-color:#1e272e;
+	float:left;
+	padding-left: 11%;
+	padding-top: 1%;
+}
+
+h3{
+	font-family: 'Source Sans Pro', sans-serif;
+	color: #ecf0f1;
+	display: inline;
+	}
+
+p{
+	font-family:'Source Sans Pro', sans-serif;
+	text-align: left;justify-content: 
+}
+
+h2{
+	font-family: 'Source Sans Pro', sans-serif;
+	display: inline;
+	font-weight: medium; 
+}
+
+.titulos{
+	font-size: 30px;
+	color: #d63031;
+	font-weight:bold;
+}
+
+.tituloformu{
+	font-size:20px;
+	color: #ffdd59;
+	font-weight:bold;
+}
+
+.titulopersonajes{
+	font-size: 30px;
+	color: #d63031;
+	font-weight:bold;
+	margin-left: 24%;
+	
+}
